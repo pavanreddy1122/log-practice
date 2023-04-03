@@ -15,7 +15,7 @@ public class LogPracticeApplication {
 		log.warn("warn");
 		log.error("error");
 
-		//////log.debug("debug");
+		log.debug("debug");
 
 
 	}
